@@ -1,0 +1,2 @@
+# 6. Creación de consultas personalizadas y diseño de nuevos paneles
+
